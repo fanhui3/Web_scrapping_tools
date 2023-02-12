@@ -2,7 +2,7 @@ import pyautogui as pg
 import webbrowser
 import time
 
-ticker = "tsla"
+ticker = "crwd"
 
 def go_to_site(browser_location, stock):
     """This function open up the stockrow financial page in annual format 
